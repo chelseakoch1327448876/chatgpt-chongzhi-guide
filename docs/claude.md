@@ -5,6 +5,8 @@ description: "2026 年国内用户 Claude Pro 充值完整指南：为什么国�
 
 # Claude充值教程 2026：国内用支付宝/微信开通 Claude Pro
 
+> 2026-11-05 更新：Claude Pro 开通已开始触发 KYC 身份验证，充值渠道暂停，详见 [Claude Pro KYC 风控新政解读](claude-pro-kyc-2026.md)。
+
 > 最后更新：2026 年 8 月 · 适用于 Claude Pro 订阅及 Claude Code 使用者
 
 Claude 在长文写作、代码和复杂推理上的表现，让它成为很多人 ChatGPT 之外的第二订阅，Claude Code 更是不少开发者的主力编程工具。但 Anthropic 的支付体系对国内用户的限制和 OpenAI 如出一辙——这篇讲清 claude充值 的可行路径。
