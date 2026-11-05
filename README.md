@@ -22,6 +22,9 @@
 
 ## 📚 分主题详细教程
 
+- [2026 ChatGPT 注册教程：国内邮箱注册、桌面端登录与 Plus / Pro 充值](docs/chatgpt-zhuce-jiaocheng-2026.md)（2026-11-05 更新）
+- [Claude Pro 开始要求 KYC？2026 年 11 月 Anthropic 风控新政全解读](docs/claude-pro-kyc-2026.md)（2026-11-05 更新）
+
 | 主题 | 覆盖内容 |
 |---|---|
 | [ChatGPT Plus 购买教程](docs/chatgpt-plus.md) | 支付宝/微信开通 Plus 完整流程、周期选择、Plus vs Pro |
