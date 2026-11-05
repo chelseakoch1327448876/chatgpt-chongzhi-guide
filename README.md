@@ -22,6 +22,7 @@
 
 ## 📚 分主题详细教程
 
+- [chatgpt 代充怎么选：Images 2.6 上线 GIF 后，Plus / Pro 还值不值得升（2026）](docs/chatgpt-daichong-images-26-2026.md)（2026-11-05 更新）
 - [2026 ChatGPT 注册教程：国内邮箱注册、桌面端登录与 Plus / Pro 充值](docs/chatgpt-zhuce-jiaocheng-2026.md)（2026-11-05 更新）
 - [Claude Pro 开始要求 KYC？2026 年 11 月 Anthropic 风控新政全解读](docs/claude-pro-kyc-2026.md)（2026-11-05 更新）
 
