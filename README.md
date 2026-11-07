@@ -22,6 +22,7 @@
 
 ## 📚 分主题详细教程
 
+- [chatgpt 账号被停用怎么办？11月7日集中封号反馈与申诉步骤](docs/chatgpt-zhanghao-tingyong-shensu-2026.md)（2026-11-07 更新）
 - [chatgpt 账号自己注册后怎么保护：通行密钥、MFA 与换机检查清单（2026）](docs/chatgpt-zhanghao-anquan-huanji-2026.md)（2026-11-07 更新）
 - [chatgpt 充值前必看：12 月起 Plus / Pro 将与 Codex 共用额度（2026）](docs/chatgpt-chongzhi-gongxiang-edu-2026.md)（2026-11-06 更新）
 - [chatgpt 代充怎么选：Images 2.6 上线 GIF 后，Plus / Pro 还值不值得升（2026）](docs/chatgpt-daichong-images-26-2026.md)（2026-11-05 更新）
