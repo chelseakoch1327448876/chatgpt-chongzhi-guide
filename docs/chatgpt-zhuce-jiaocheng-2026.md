@@ -76,9 +76,11 @@ description: 2026 年 11 月最新 ChatGPT 注册教程：QQ、163 邮箱能不�
 | Pro 200 | $200 | 高强度研究和编程，用量明显高于 Pro 100 |
 | Pro 500 | $500 | 全天候 Codex / Agent 工作，唯一带 Ultrafast 的档位 |
 
-另外，从 2026 年 10 月 28 日起，符合条件的 Pro 订阅每月可领取与月费等额的 OpenAI API 额度（[来源](https://geotoolbox.ai/blog/chatgpt-pricing)）。如果你本来就在用 API，Pro 100 的实际成本会低不少。
+另外，按 OpenAI 帮助中心说明，Pro 100 / 200 / 500 订阅满 7 天后可在 Settings → Billing 领取 API 赠金，满周期额度分别为 100 / 200 / 500 美元，首次按剩余天数折算、当期用不完不结转；Plus 不参与，赠金也不会增加 ChatGPT 或 Codex 的用量（[官方说明](https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions)，2026-11-09 核对）。
 
-以上为官方美元标价，具体额度和权益以账号内显示为准。价格来源：[GeoToolbox](https://geotoolbox.ai/blog/chatgpt-pricing)、[Justin McKelvey](https://justinmckelvey.com/blog/chatgpt-plus-vs-pro)（2026 年 11 月）。
+以上为官方美元标价，具体额度和权益以账号内显示为准。价格来源：[OpenAI：What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)、[OpenAI：About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[OpenAI：What is ChatGPT Go?](https://help.openai.com/en/articles/11989085-what-is-chatgpt-go)（2026-11-09 核对）。
+
+> 想买现成账号省事？先看[为什么建议自己注册](chatgpt-zhanghao-goumai-ziji-zhuce-2026.md)：订阅不能跨账号转移，聊天记录也无法合并。
 
 ## 国内怎么给自己的账号充值 Plus / Pro
 
