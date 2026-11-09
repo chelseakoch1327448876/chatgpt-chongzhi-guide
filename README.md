@@ -20,6 +20,10 @@
 - [免责声明](#免责声明)
 ---
 
+## 相关仓库
+
+- [GPT代充推荐｜2026 ChatGPT Plus/Pro 代充平台全方面对比](https://github.com/chelseakoch1327448876/chatgpt-daichong-tuijian)
+
 ## 📚 分主题详细教程
 
 - [chatgpt 账号购买前先看：为什么建议自己注册，订阅和记录都转不走（2026）](docs/chatgpt-zhanghao-goumai-ziji-zhuce-2026.md)（2026-11-09 更新）
