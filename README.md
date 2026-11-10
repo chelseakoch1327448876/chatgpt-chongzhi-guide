@@ -26,6 +26,7 @@
 
 ## 📚 分主题详细教程
 
+- [gpt 代充哪家靠谱？6 条挑选标准：透明价格、不要密码、30 天质保与收据（2026）](docs/gpt-daichong-najia-kaopu-2026.md)（2026-11-10 更新）
 - [chatgpt 账号购买前先看：为什么建议自己注册，订阅和记录都转不走（2026）](docs/chatgpt-zhanghao-goumai-ziji-zhuce-2026.md)（2026-11-09 更新）
 - [codex 充值怎么选：额度用完后买 credits、等重置还是升级套餐（2026）](docs/codex-chongzhi-credits-2026.md)（2026-11-08 更新）
 - [chatgpt 账号被停用怎么办？11月7日集中封号反馈与申诉步骤](docs/chatgpt-zhanghao-tingyong-shensu-2026.md)（2026-11-07 更新）
