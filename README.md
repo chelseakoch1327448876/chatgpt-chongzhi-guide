@@ -26,6 +26,7 @@
 
 ## 📚 分主题详细教程
 
+- [codex 代充前先分清：套餐直充还是按量额度？登录方式选错等于白充｜Plus 168 元、30 天质保](docs/codex-daichong-denglu-fangshi-2026.md)（2026-11-12 更新）
 - [chatgpt plus 购买还是先买 Go？20 美元与 8 美元怎么选，12 月 11 日语音换代前看清（2026）](docs/chatgpt-plus-goumai-go-duibi-2026.md)（2026-11-11 更新）
 - [gpt 代充哪家靠谱？6 条挑选标准：透明价格、不要密码、30 天质保与收据（2026）](docs/gpt-daichong-najia-kaopu-2026.md)（2026-11-10 更新）
 - [chatgpt 账号购买前先看：为什么建议自己注册，订阅和记录都转不走（2026）](docs/chatgpt-zhanghao-goumai-ziji-zhuce-2026.md)（2026-11-09 更新）
